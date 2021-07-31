@@ -12,3 +12,5 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Description: Landing website with 3D model in product page.
+
+**Use Visual Studio Code
